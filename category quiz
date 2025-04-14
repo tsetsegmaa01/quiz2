@@ -1,48 +1,9 @@
 [
   {
-    "question": "What is the name of this country?",
+    "question": "Choose your category!",
     "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20uk.png",
     "options": ["UK", "USA", "Japan", "Germany"],
     "answer": "UK"
   },
-  {
-    "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20italy.png",
-    "options": ["Italy", "South Korea", "Mongolia", "Sweden"],
-    "answer": "Italy"
-  },
-  {
-    "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/mongolia%20flag.png",
-    "options": [
-      "Mongolia",
-      "UK",
-      "India",
-      "North Korea"
-    ],
-    "answer": "Mongolia"
-  },
-  {
-    "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20usa.png",
-    "options": [
-      "Spain",
-      "USA",
-      "France",
-      "Egypt"
-    ],
-    "answer": "USA"
-  },
-  {
-    "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20south%20korea.jpeg",
-    "options": [
-      "South Korea",
-      "Thailand",
-      "China",
-      "Brazil"
-    ],
-    "answer": "South Korea"
-  }
   
 ]
