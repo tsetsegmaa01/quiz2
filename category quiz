@@ -55,10 +55,10 @@
   },
 
 {
-    "question": "",
+    "question": "ДНК гэж юу вэ?",
     "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
+    "options": ["Ургамлын нэр", "Биеийн мэдээлэл хадгалдаг зүйл", "Амьтны хоол", "Ном"],
+    "answer": "Биеийн мэдээлэл хадгалдаг зүйл"
   },
 
 
@@ -66,66 +66,3 @@
 
 
 
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-
-{
-    "question": "",
-    "image": "",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-]
