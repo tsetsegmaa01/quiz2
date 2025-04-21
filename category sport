@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Сагсан бөмбөгийг хэн зохион бүтээсэн бэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-4.png",
+    "options": ["Кобе Браянт", "Жеймс Нейсмит", " Леброн Жэймс", "Майкл Жордан"],
+    "answer": "Жеймс Нейсмит"
+  },
+  {
+    "question": "Сагсан бөмбөгийн стандарт талбайн урт хэд вэ (FIBA)?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-5.png",
+    "options": ["26 метр", "28 метр", "30 метр", "32 метр"],
+    "answer": "28 метр"
+  },
+      {
+    "question": "NBA-д довтолгооны хугацаа хэдэн секунд вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/ref.jpeg",
+    "options": ["30 секунд", "20 секунд", "24 секунд ", "15 секунд"],
+    "answer": "24 секунд"
+  },
+      {
+    "question": ""Тройка" гэж юу вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-6.png",
+    "options": ["3 удаа самбараас бөмбөг авалт хийх", "3 онооны бүсээс шидэлт хийх", "3 тоглогчийн нэгэн зэрэг довтолгоо", "3 удаа бөмбөг алдах"],
+    "answer": "3 онооны бүсээс шидэлт хийх"
+  },
+      {
+    "question": "Нэг баг талбай дээр хэдэн тоглогчтой байдаг вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-7.png",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+      {
+    "question": ""Triple-double" гэдэг нь юу гэсэн үзүүлэлт вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-8.png",
+    "options": ["Нэг тоглолтод 30 оноо авах", "3 удаа бөмбөг алдах", "3 төрлийн үзүүлэлтээр 10 буюу түүнээс дээш үзүүлэлт үзүүлэх ", "3 удаа довтолгоо таслах"],
+    "answer": "3 төрлийн үзүүлэлтээр 10 буюу түүнээс дээш үзүүлэх"
+  },
+      {
+    "question": "NBA-д хамгийн олон удаа аварга болсон баг аль нь вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-9.png",
+    "options": [" Лос Анжелес Лэйкерс", "Голден Стэйт Уорриорс", "Бостон Селтикс", "Чикаго Буллс"],
+    "answer": "Бостон Селтикс"
+  },
+      {
+    "question": "Pick and roll” ямар төрлийн тактик вэ? ",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-10.png",
+    "options": ["Хамгаалалтын систем", "Бөмбөг булаалт хийх арга", "Довтолгооны халхалж, сагс руу өнхрөх тактик", "Самбар хамгаалах арга"],
+    "answer": "Довтолгооны халхалж, сагс руу өнхрөх тактик"
+  },
+      {
+    "question": "2024 оны олимпын аварга аль улс болсон бэ (эрэгтэй ангилал)?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/unnamed-11.png",
+    "options": ["Франц", "АНУ", "Испани", "Канад"],
+    "answer": "АНУ"
+  }
+]
