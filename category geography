@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Япон улсын нийслэл аль хот вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/tokyo%20resized.jpeg",
+    "options": ["Сөүл", "Бээжин", "Токио", "Киото"],
+    "answer": "Токио"
+  },
+  {
+    "question": "Дэлхийн хамгийн өндөр уул юу вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/everest%20resized.jpeg",
+    "options": ["Килиманджаро", "Эльбрус", "Монблан", "Эверест"],
+    "answer": "Эверест"
+  },
+  {
+    "question": "Африк тивийн хамгийн урт гол аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/nile%20river%20resized.jpeg",
+    "options": ["Нил", "Миссисипи", "Дунай", "Амазон"],
+    "answer": "Нил"
+  },
+  {
+    "question": "Дэлхийн хамгийн гүн цэнгэг уст нуур аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/baigal%20resized.jpeg",
+    "options": ["Викториа", "Байгал", "Титикака", "Онтарио"],
+    "answer": "Байгал"
+  },
+  {
+    "question": "Аль улс вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/flag%20of%20peru%20resized.jpeg",
+    "options": ["Мексик", "Чили", "Перу", "Боливи"],
+    "answer": "Перу"
+  }
+  {
+    "question": "Дэлхийн хамгийн том арал аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/greenland%20northern%20light%20re.jpeg",
+    "options": ["Австрали", "Гренланд", "Мадагаскар", "Исланд"],
+    "answer": "Гренланд"
+  }
+   {
+    "question": "Дэлхийн хамгийн хүйтэн тив аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/antarctica%20resized.jpeg",
+    "options": ["Ази", "Европ", "Антарктид", "Хойд Америк"],
+    "answer": "Антарктид"
+  },
+  {
+    "question": "Ниагарын хүрхрээ ямар хоёр улсын хооронд оршдог вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/niagara%20falls%20resized.jpeg",
+    "options": ["Канад, Мексик", "АНУ, Бразил", "Канад, АНУ", "Канад, Их Британи"],
+    "answer": "Канад, АНУ"
+  },
+  {
+    "question": "Газрын зураг дээрх байршлыг өргөрөг, уртрагаар илэрхийлдэг системийг юу гэдэг вэ?",
+    "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/map%20coordinate%20re.jpeg",
+    "options": ["Проекц", "Экватор", "Харьцаа", "Координат"],
+    "answer": "Координат"
+  },
+]
