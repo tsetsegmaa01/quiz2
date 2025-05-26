@@ -52,5 +52,5 @@
     "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/map%20coordinate%20re.jpeg",
     "options": ["Проекц", "Экватор", "Харьцаа", "Координат"],
     "answer": "Координат"
-  },
+  }
 ]
