@@ -28,13 +28,13 @@
     "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/flag%20of%20peru%20resized.jpeg",
     "options": ["Мексик", "Чили", "Перу", "Боливи"],
     "answer": "Перу"
-  }
+  },
   {
     "question": "Дэлхийн хамгийн том арал аль нь вэ?",
     "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/greenland%20northern%20light%20re.jpeg",
     "options": ["Австрали", "Гренланд", "Мадагаскар", "Исланд"],
     "answer": "Гренланд"
-  }
+  },
    {
     "question": "Дэлхийн хамгийн хүйтэн тив аль нь вэ?",
     "img-url":"https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/antarctica%20resized.jpeg",
