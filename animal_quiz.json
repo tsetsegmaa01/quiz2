@@ -1,0 +1,64 @@
+[
+  {
+    "question": "Цагаан баавгай ямар газар амьдардаг вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/Polar_Bear-3.jpeg",
+    "options": ["Цөл", "Халуун ой", "Хүйтen gazar", "Ууланд"],
+    "answer": "Hүйтen gazar"
+  },
+  {
+    "question": "Кактусын навчны оронд юу байдаг вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/cactus.jpeg",
+    "options": ["Цэцэг", "Үр", "Зүү шиг өргөс", "Жимс"],
+    "answer": "Зүү шиг өргөс"
+  },
+  {
+    "question": "Халим ямар амьтан вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/whale.jpeg",
+    "options": ["Загас", "Хөхтөн", "Хэвлээр явагч ", "Шувуу"],
+    "answer": "Хөхтөн"
+  },
+  {
+    "question": "Бүргэдийн хамгийн том онцлог юу вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/eagle%20resized.jpeg",
+    "options": [
+      "Усан дотор амьдардаг",
+      "Сайн хараатай, өндөрт нисдэг",
+      "Шар өнгөтэй байдаг",
+      "Шөнийн цагаар нисдэг"
+    ],
+    "answer": "Сайн хараатай, өндөрт нисдэг"
+  },
+  {
+    "question": "Хорхой юугаар хооллодог вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/insect.jpeg",
+    "options": ["Модны навч", "Загас", "Шувуу", "Хүмүүс"],
+    "answer": "Модны навч"
+  },
+  {
+    "question": "Аль ургамлыг ханиаднаас сэргийлэхэд хэрэглэдэг вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/medicine%20plant-2.jpeg",
+    "options": ["Хар сарнай", "Цагаан луулин", "Ганга", "Хулуу"],
+    "answer": "Ганга"
+  },
+  {
+    "question": "Үнэг ямар амьтан бэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/fox%20resized.jpeg",
+    "options": ["Усанд амьдардаг", "Хортон шавьж", "Зэрлэг, овжин амьтан", "Шувуу"],
+    "answer": "Зэрлэг, овжин амьтан"
+  },
+  {
+    "question": "Цөлийн экосистемд ямар онцлог байдаг вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/desert%20resized.jpg",
+    "options": ["Их ногоотой", "Маш халуун, хуурай", "Цас ордог", "Бороо их ордог"],
+    "answer": "Маш халуун, хуурай"
+  },
+  {
+    "question": "ДНК гэж юу вэ?",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/dna%20resized.jpeg",
+    "options": ["Ургамлын нэр", "Биеийн мэдээлэл хадгалдаг зүйл", "Амьтны хоол", "Ном"],
+    "answer": "Биеийн мэдээлэл хадгалдаг зүйл"
+  },
+]
+
+
+
