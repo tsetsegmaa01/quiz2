@@ -2,7 +2,7 @@
   {
     "question": "Цагаан баавгай ямар газар амьдардаг вэ?",
     "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/Polar_Bear-3.jpeg",
-    "options": ["Цөл", "Халуун ой", "Хүйтen gazar", "Ууланд"],
+    "options": ["Цөл", "Халуун ой", "Хүйтэн газар", "Ууланд"],
     "answer": "Hүйтen gazar"
   },
   {
