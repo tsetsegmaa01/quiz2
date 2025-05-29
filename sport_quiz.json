@@ -18,7 +18,7 @@
     "answer": "24 секунд"
   },
   {
-    "question": ""Тройка" гэж юу вэ?",
+    "question": "Тройка" гэж юу вэ?",
     "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/3%20point%20resized.png",
     "options": ["3 удаа самбараас бөмбөг авалт хийх", "3 онооны бүсээс шидэлт хийх", "3 тоглогчийн нэгэн зэрэг довтолгоо", "3 удаа бөмбөг алдах"],
     "answer": "3 онооны бүсээс шидэлт хийх"
@@ -30,7 +30,7 @@
     "answer": "5"
   },
   {
-    "question": ""Triple-double" гэдэг нь юу гэсэн үзүүлэлт вэ?",
+    "question": "Triple-double" гэдэг нь юу гэсэн үзүүлэлт вэ?",
     "image": "https://raw.githubusercontent.com/tsetsegmaa01/quiz2/refs/heads/main/data%20resized.png",
     "options": ["Нэг тоглолтод 30 оноо авах", "3 удаа бөмбөг алдах", "3 төрлийн үзүүлэлтээр 10 буюу түүнээс дээш үзүүлэлт үзүүлэх ", "3 удаа довтолгоо таслах"],
     "answer": "3 төрлийн үзүүлэлтээр 10 буюу түүнээс дээш үзүүлэх"
